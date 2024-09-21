@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "name": "Supreme Court",
+        "link": "https://www.sci.gov.in/case-status-case-no/"
+      },
+    
+      {
+        "id": 2,
+        "name": "High Court of Andhra Pradesh",
+        "link": "https://services.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=2&dist_cd=1&stateNm=Andhra%20Pradesh"
+      },
+      {
+        "id": 3,
+        "name": "High Court of Bombay - Original Side",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=1&dist_cd=1&court_code=2&stateNm=Bombay"
+      },
+      {
+        "id": 4,
+        "name": "Calcutta High Court",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=16&dist_cd=1&court_code=3&stateNm=Calcutta"
+      },
+      {
+        "id": 5,
+        "name": "High Court of Chhattisgarh",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=18&dist_cd=1&stateNm=Chhattisgarh"
+      },
+      {
+        "id": 6,
+        "name": "Delhi High Court",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=delhi"
+      },
+      {
+        "id": 7,
+        "name": "The Gauhati High Court",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=6&dist_cd=1&stateNm=Assam"
+      },
+      {
+        "id": 8,
+        "name": "Gujarat Case Status",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=gujarat"
+      },
+      {
+        "id": 9,
+        "name": "High Court of Himachal Pradesh",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=5&dist_cd=1&stateNm=Himachal%20Pradesh"
+      },
+      {
+        "id": 10,
+        "name": "High Court of Jammu and Kashmir",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=12&dist_cd=1&stateNm=Jammu%20and%20Kashmir"
+      },
+      {
+        "id": 11,
+        "name": "High Court of Jharkhand",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=7&dist_cd=1&stateNm=Jharkhand"
+      },
+      {
+        "id": 12,
+        "name": "High Court of Karnataka",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=3&dist_cd=1&stateNm=Karnataka"
+      },
+      {
+        "id": 13,
+        "name": "High Court Of Kerala",
+        "link": "https://services.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=4&dist_cd=1&stateNm=Kerala"
+      },
+      {
+        "id": 14,
+        "name": "High Court of Madhya Pradesh",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=7&dist_cd=1&stateNm=Madhya%20Pradesh"
+      },
+      {
+        "id": 15,
+        "name": "High Court of Madras",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=10&dist_cd=1&court_code=1&stateNm=Madras"
+      },
+      {
+        "id": 16,
+        "name": "High Court of Manipur",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=25&dist_cd=1&stateNm=Manipur"
+      },
+      {
+        "id": 17,
+        "name": "High Court of Meghalaya",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=21&dist_cd=1&stateNm=Meghalaya"
+      },
+      {
+        "id": 18,
+        "name": "High Court of Orissa",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=11&dist_cd=1&stateNm=Odisha/"
+      },
+      {
+        "id": 19,
+        "name": "Patna High Court",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/cases/case_no.php?state_cd=8&dist_cd=1&court_code=1&stateNm=Patna"
+      },
+      {
+        "id": 20,
+        "name": "High Court of Punjab",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=punjab"
+      },
+      {
+        "id": 21,
+        "name": "High Court of Haryana",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=haryana"
+      },
+      {
+        "id": 22,
+        "name": "High Court of Rajasthan",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=9&dist_cd=1&stateNm=Rajasthan"
+      },
+      {
+        "id": 23,
+        "name": "High Court of Sikkim",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=Sikkim"
+      },
+      {
+        "id": 24,
+        "name": "High Court for the State of Telangana",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=29&dist_cd=1&stateNm=Telangana"
+      },
+      {
+        "id": 25,
+        "name": "High Court of Tripura",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=20&dist_cd=1&stateNm=Tripura"
+      },
+      {
+        "id": 26,
+        "name": "High Court of Uttarakhand",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=15&dist_cd=1&stateNm=Uttarakhand"
+      },
+      {
+        "id": 27,
+        "name": "Allahabad High Court",
+        "link": "https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=13&dist_cd=1&stateNm=Uttar%20Pradesh"
+      }
+      
+    ]
