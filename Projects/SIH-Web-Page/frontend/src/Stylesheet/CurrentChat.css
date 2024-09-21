@@ -1,0 +1,71 @@
+/* .input1>input{
+    height: 60px;
+    width: 850px;
+    font-size: 18px;
+    text-indent: 15px;
+    border-radius: 30px;
+    border: none;
+    background-color: #FAF8F8;
+   
+    
+}
+.input1>input:focus{
+   outline: none;
+}
+
+.input1{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    gap: 2rem;
+    border: 1px solid #D9D9D9;
+    background-color: #FAF8F8;
+    box-shadow: rgba(201, 200, 200, 0.1) 0px 0px 0px;
+    border-radius: 30px;
+    padding-right: 10px;
+} */
+
+.input1 {
+    position: fixed; /* Keep the input box fixed at the bottom */
+    bottom: 20px; /* Position it slightly above the bottom */
+    left: 50%; /* Center the box horizontally */
+    transform: translateX(-50%); /* Adjust positioning to perfectly center */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem; /* Reduced gap between input and send icon */
+    border: 1px solid #D9D9D9;
+    background-color: #FAF8F8;
+    box-shadow: rgba(201, 200, 200, 0.1) 0px 0px 0px;
+    border-radius: 30px;
+    padding-right: 10px;
+    width: 90%; /* Adjust the width to be responsive */
+    max-width: 850px; /* Set a max width to keep it consistent */
+    z-index: 100; /* Ensure it stays on top of other content */
+}
+
+.input1 > input {
+    flex-grow: 1;
+    height: 60px;
+    font-size: 18px;
+    text-indent: 15px;
+    border-radius: 30px;
+    border: none;
+    background-color: #FAF8F8;
+    outline: none;
+    padding-right: 10px;
+    overflow-wrap: break-word; /* Ensure long text wraps */
+    word-break: break-word; /* Prevent text overflow */
+}
+
+.input1 > input:focus {
+    outline: none;
+}
+
+.input1 div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

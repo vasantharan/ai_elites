@@ -1,9 +1,10 @@
 import React from 'react'
-import { useParams } from 'react-router-dom';
+import Sidebar from './Sidebar';
 import { useNavigate } from 'react-router-dom'
 const MusicCard = ({ props }) => {
   const navigate = useNavigate();
   return (
+
     <div className='min-w-[180px] hover:bg-[#4e4d4d] hover:rounded-lg cursor-pointer p-[5px]' onClick={() => navigate(`/album/${props.id}`)}>
       <div className='flex flex-col gap-[0.5rem]'>
         <div>

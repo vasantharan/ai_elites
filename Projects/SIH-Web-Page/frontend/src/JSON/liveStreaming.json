@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Supreme Court",
+      "link": "https://www.sci.gov.in/live-streaming/"
+    },
+    {
+      "id": 2,
+      "name": "Gujarat High Court",
+      "link": "https://gujarathighcourt.nic.in/streamingboard/"
+    },
+    {
+      "id": 3,
+      "name": "Gauhati High Court",
+      "link": "https://ghconline.gov.in/index.php/live-streaming-of-court-proceedings-1/"
+    },
+  {
+      "id": 4,
+      "name": "Jharkhand High Court",
+      "link": "https://www.youtube.com/channel/UC43OwYFDEuS8OrK_PSIabSg/videos?view=57"
+    },
+    {
+      "id": 5,
+      "name": "Karnataka High Court",
+      "link": "https://www.youtube.com/c/HighCourtofKarnatakaOfficial"
+    },
+  {
+      "id": 6,
+      "name": "Madhya Pradesh High Court",
+      "link": "https://www.youtube.com/channel/UCCIVFftzmBqzBKoijOmIl1A"
+    },
+    {
+      "id": 7,
+      "name": "Orissa High Court",
+      "link": "https://www.youtube.com/channel/UCtTgN30THhZfQ6sQ_v3KBHQ"
+    },  
+  {
+      "id": 8,
+      "name": "Patna High Court",
+      "link": "https://www.youtube.com/channel/UCvb5s5UdLjpaiDpBeaCxVEw"
+    }
+  ]

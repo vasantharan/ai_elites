@@ -3,9 +3,12 @@ import Navbar from '../Components/Navbar'
 import MusicCard from '../Components/MusicCard'
 import {albumsData} from '../assets/assets.js'
 import {songsData} from '../assets/assets.js'
+import Sidebar from '../Components/Sidebar.jsx'
 export const MainPage = () => {
     // console.log(albumsData);
   return (
+    <div className='flex bg-black h-screen p-[15px] gap-[0.5rem] overflow-hidden'>
+    <Sidebar />
     <div className='bg-[#1F1F1F] min-w-[75%] rounded-lg px-[15px] py-[10px] flex flex-col gap-[2.5rem]'>
         <Navbar />
         <div className='flex flex-col gap-[1rem]'>
@@ -27,6 +30,7 @@ export const MainPage = () => {
             }
             </div>
         </div>
+    </div>
     </div>
   )
 }
