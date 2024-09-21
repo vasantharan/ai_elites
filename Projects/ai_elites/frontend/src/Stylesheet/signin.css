@@ -1,0 +1,68 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 2.2rem;
+  justify-content: center;
+  align-items: center;
+  /* border: 2px solid red; */
+}
+.whole-div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 50vh;
+  /* border: 1px solid red; */
+}
+.signin-title {
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+}
+.main-button {
+  height: 44px;
+  width: 130px;
+  font-size: 16px;
+}
+.login-nav {
+  color: white;
+  font-weight: bold;
+  /* border: 2px solid red; */
+}
+.password-field {
+  position: relative;
+}
+
+.password-toggle-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #7a7a7a; /* Adjust as needed */
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+}
+.whole-div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 70vh;
+}
+.signin-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
